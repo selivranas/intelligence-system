@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="MainForms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\PopForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\RapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\RockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PopForms\Disco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PopForms\House.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PopForms\Trance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RapForms\HardCore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RapForms\Regional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RapForms\Trap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RockForms\Alt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RockForms\Metal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RockForms\Punk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
